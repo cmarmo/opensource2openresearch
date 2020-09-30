@@ -16,7 +16,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 :root {
   --background-color: #F0F1EB;
   --main-font: "Source Sans Pro", Helvetica, sans-serif;
-  --main-font-size: 40px;
+  --main-font-size: 30px;
   --main-color: #000;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
@@ -44,7 +44,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: normal;
   color: #000; }
 
@@ -308,8 +308,12 @@ span.heart {
   text-align: left;
 }
 
+.right {
+  text-align: right;
+}
+
 .logos {
-  height: 150px;
+  height: 100px;
   /*transform: rotate(20deg);*/
 }
 
@@ -326,4 +330,9 @@ span.heart {
   height: auto;
   left: -150px;
   bottom: 50px;
+}
+
+h3.asis {
+  color: white;
+  text-shadow: 5px 5px 5px black;
 }
