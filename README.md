@@ -2,6 +2,8 @@
 
 Live at PyLadies Hacktoberfest - October 1st 2020
 
+Check [the rendered version](https://cmarmo.github.io/opensource2openresearch)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
