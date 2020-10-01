@@ -302,6 +302,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  **********************************************/
 span.heart {
   color: #9F0303;
+  font-weight: bold;
 }
 
 .left {
@@ -324,8 +325,10 @@ span.heart {
 }
 
 .tw-icon {
+  position: relative;
   width: 80px;
   height: auto;
+  bottom: 30px;
 }
 
 h3.asis {
